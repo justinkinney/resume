@@ -7,6 +7,9 @@
 ## Background
 Background statement/information
 
+## Technical Proficiencies
+
+
 ## Work History
 
 ### Academy Sports
@@ -25,12 +28,9 @@ Job description content
 ##### Date 1 - Date 2
 Job description content
 
-
-
 #### Business Analyst
 ##### Date 1 - Date 2
 Job description content
-
 
 
 ### Wal-Mart Stores, Inc.
@@ -41,6 +41,5 @@ Job description content
 
 
 
-## Technical Proficiencies
 
 ## Education & Training
